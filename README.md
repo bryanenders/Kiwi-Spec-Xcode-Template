@@ -3,7 +3,7 @@ Kiwi Spec Xcode Template
 
 An Xcode spec template for use with the Kiwi framework.
 
-![Mogenerator Xcode template icon](http://lanausee.com/images/kiwi.png)
+![Kiwi spec Xcode template icon](http://lanausee.com/images/kiwi.png)
 
 
 Installation
